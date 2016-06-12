@@ -1,0 +1,19 @@
+---
+layout: project
+title:  "临摹"
+categories:
+- project
+img: portfolio_06.jpg
+thumb: thumb02.jpg
+carousel:
+
+tagged: 临摹
+---
+<img class="img-responsive" src="{{ "/assets/img/project/carousel/06art/大白.png" | prepend: site.baseurl }}" alt="">
+<img class="img-responsive" src="{{ "/assets/img/project/carousel/06art/微质感图标.jpg" | prepend: site.baseurl }}" alt="">
+<img class="img-responsive" src="{{ "/assets/img/project/carousel/06art/拟物.jpg" | prepend: site.baseurl }}" alt="">
+<img class="img-responsive" src="{{ "/assets/img/project/carousel/06art/金属质感图标.jpg" | prepend: site.baseurl }}" alt="">
+<img class="img-responsive" src="{{ "/assets/img/project/carousel/06art/金属质感图标2.jpg" | prepend: site.baseurl }}" alt="">
+
+
+

@@ -505,3 +505,7 @@ a.anchor{
     top: -80px; 
     visibility: hidden;
 }
+.middle {
+	width: 68%;
+	margin: 50px 16%;
+}

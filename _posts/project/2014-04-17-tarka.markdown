@@ -1,0 +1,19 @@
+---
+layout: project
+title:  "Tarka Indian Kitchen"
+categories:
+- project
+img: portfolio_03.jpg
+thumb: thumb02.jpg
+carousel:
+- portfolio_03.jpg
+tagged: Web, logo
+---
+<img class="img-responsive" src="{{ "/assets/img/project/carousel/03tarka/1.jpg" | prepend: site.baseurl }}" alt="">
+<img class="img-responsive" src="{{ "/assets/img/project/carousel/03tarka/3.jpg" | prepend: site.baseurl }}" alt="">
+<img class="img-responsive" src="{{ "/assets/img/project/carousel/03tarka/4.jpg" | prepend: site.baseurl }}" alt="">
+<img class="img-responsive" src="{{ "/assets/img/project/carousel/03tarka/5.jpg" | prepend: site.baseurl }}" alt="">
+<img class="img-responsive" src="{{ "/assets/img/project/carousel/03tarka/6.jpg" | prepend: site.baseurl }}" alt="">
+<img class="img-responsive" src="{{ "/assets/img/project/carousel/03tarka/7.jpg" | prepend: site.baseurl }}" alt="">
+
+

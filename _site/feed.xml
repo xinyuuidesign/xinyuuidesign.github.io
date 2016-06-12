@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SOLID.</title>
+    <title>xinyu wang</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 12 Jun 2016 12:26:01 +0800</pubDate>
-    <lastBuildDate>Sun, 12 Jun 2016 12:26:01 +0800</lastBuildDate>
+    <link>http://xinyuuidesign.github.io/</link>
+    <atom:link href="http://xinyuuidesign.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 12 Jun 2016 13:14:02 +0800</pubDate>
+    <lastBuildDate>Sun, 12 Jun 2016 13:14:02 +0800</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;To get to the other side.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>http://yourdomain.com/question/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/question/your-project-name</guid>
+        <link>http://xinyuuidesign.github.io/question/your-project-name</link>
+        <guid isPermaLink="true">http://xinyuuidesign.github.io/question/your-project-name</guid>
         
         
         <category>question</category>
@@ -31,8 +31,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://xinyuuidesign.github.io/project/your-project-name</link>
+        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -48,8 +48,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://xinyuuidesign.github.io/project/your-project-name</link>
+        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -65,8 +65,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://xinyuuidesign.github.io/project/your-project-name</link>
+        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -82,8 +82,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://xinyuuidesign.github.io/project/your-project-name</link>
+        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -99,8 +99,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://xinyuuidesign.github.io/project/your-project-name</link>
+        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -116,8 +116,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://xinyuuidesign.github.io/project/your-project-name</link>
+        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -133,8 +133,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://xinyuuidesign.github.io/project/your-project-name</link>
+        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -150,8 +150,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://xinyuuidesign.github.io/project/your-project-name</link>
+        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -167,8 +167,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://xinyuuidesign.github.io/project/your-project-name</link>
+        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/your-project-name</guid>
         
         
         <category>project</category>

@@ -31,7 +31,7 @@ body {
 	}
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Raleway', sans-serif;
+	font-family: "Microsoft Yahei",STHeitiSC-Light,Arial,sans-serif;
 	font-weight: 700;
 }
 
@@ -103,8 +103,8 @@ a:focus {
 }
 
 .navbar-brand {
-	font-family: 'Raleway', sans-serif;
-	font-weight: 900;
+	font-family:  "Microsoft Yahei",STHeitiSC-Light,Arial,sans-serif;
+	font-weight: 700;
 }
 
 .navbar-header .navbar-brand {
@@ -270,7 +270,7 @@ a:focus {
 
 .portfolio-item .title:before {border-radius:0; display:none}
 .portfolio-item p {margin:0px 0 30px;}
-.portfolio-item h3 {margin:-10px 0 10px; font-size:16px; text-transform:uppercase;}
+.portfolio-item h3 {margin:-10px 0 10px; font-size:16px; }
 
 
 .tpl6 h3
@@ -279,7 +279,6 @@ a:focus {
 	margin:0;
 	padding:40px 5px 0;
 	font-size:16px;
-	text-transform:uppercase;
 }
 .tpl6 .dmbutton
 {
@@ -506,6 +505,6 @@ a.anchor{
     visibility: hidden;
 }
 .middle {
-	width: 68%;
-	margin: 50px 16%;
+	width: 98%;
+	margin: 50px 1%;
 }

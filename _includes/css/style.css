@@ -108,7 +108,7 @@ a:focus {
 }
 
 .navbar-header .navbar-brand {
-	color: white;
+	color: 333;
 }
 
 .navbar-default .navbar-nav > li > a {
@@ -252,7 +252,7 @@ a:focus {
 /* Portfolio Wrap */
 #portfoliowrap {
 	padding-top: 60px;
-	margin-bottom: 60px;
+	/*margin-bottom: 60px;*/
 	display: block;
 	text-align: center
 }
@@ -385,7 +385,7 @@ a:focus {
 /* General Tweaks */
 
 #blue {
-	background: {{ site.colors.primary }};
+	background: white;
 	margin-top: 60px;
 	margin-bottom: 60px;
 	padding-top: 25px;
@@ -393,7 +393,7 @@ a:focus {
 }
 
 #blue h3 {
-	color: white;
+	color: 333;
 	margin-left: 15px;
 }
 

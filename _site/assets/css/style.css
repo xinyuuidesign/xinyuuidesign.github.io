@@ -108,7 +108,7 @@ a:focus {
 }
 
 .navbar-header .navbar-brand {
-	color: white;
+	color: 333;
 }
 
 .navbar-default .navbar-nav > li > a {
@@ -118,11 +118,11 @@ a:focus {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: #0CE2E2;
+	color: 00afb5;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #0CE2E2;
+	color: 00afb5;
 	background-color: transparent;
 }
 
@@ -153,8 +153,8 @@ a:focus {
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
   color: #fff;
-  background-color: #0CE2E2;
-  border-color: #0CE2E2;
+  background-color: 00afb5;
+  border-color: 00afb5;
 }
 
 .dmbutton:hover,
@@ -216,7 +216,7 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: #0CE2E2;
+	background-color: 00afb5;
 	min-height: 0px;
 	padding-top: 100px;
 	padding-bottom: 50px;
@@ -244,7 +244,7 @@ a:focus {
 }
 
 #service i {
-	color: #0CE2E2;
+	color: 00afb5;
 	font-size: 60px;
 	padding: 15px;
 }
@@ -252,7 +252,7 @@ a:focus {
 /* Portfolio Wrap */
 #portfoliowrap {
 	padding-top: 60px;
-	margin-bottom: 60px;
+	/*margin-bottom: 60px;*/
 	display: block;
 	text-align: center
 }
@@ -292,15 +292,15 @@ a:focus {
 {
 	height:100%;
 	width:100%;
-	background-color:#0CE2E2;
-	background-color:rgba(12,226,226,.9);
+	background-color:00afb5;
+	background-color:rgba(0,175,181,.9);
 	text-align:center;
 }
 
 /* Testimonials Wrap */
 #twrapback {
-    background-color: #0CE2E2;
-    background-color:rgba(12,226,226,.8);
+    background-color: 00afb5;
+    background-color:rgba(0,175,181,.8);
     position: absolute;
     top: 0;
     left: 0;
@@ -376,7 +376,7 @@ a:focus {
 }
 
 #footerwrap i:hover {
-	color: #0CE2E2
+	color: 00afb5
 }
 
 /*	################################################################
@@ -385,7 +385,7 @@ a:focus {
 /* General Tweaks */
 
 #blue {
-	background: #0CE2E2;
+	background: white;
 	margin-top: 60px;
 	margin-bottom: 60px;
 	padding-top: 25px;
@@ -393,7 +393,7 @@ a:focus {
 }
 
 #blue h3 {
-	color: white;
+	color: 333;
 	margin-left: 15px;
 }
 
@@ -420,7 +420,7 @@ a:focus {
 }
 
 .ctitle {
-	color: #0CE2E2;
+	color: 00afb5;
 	font-weight: 700;
 	margin-bottom: 15px;
 }
@@ -436,7 +436,7 @@ csmall {
 }
 
 .badge-theme {
-	background: #0CE2E2;
+	background: 00afb5;
 }
 
 /* Contact Page */

@@ -42,7 +42,7 @@ p {
 	font-weight: 400;
 	font-size: 14px; 
 	line-height: 24px;
-	color: {{ site.colors.secondary }}; 
+	color: #666; 
 	margin-top: 10px; 
 }
 
@@ -81,12 +81,12 @@ a:focus {
 ::-moz-selection  {
 	color: #fff;
 	text-shadow:none;
-	background:{{ site.colors.secondary }};
+	background:#999;
 }
 ::selection {
 	color: #fff;
 	text-shadow:none;
-	background:{{ site.colors.secondary }};
+	background:#999;
 }
 
 .centered {
@@ -204,11 +204,11 @@ a:focus {
 }
 
 .hline {
-	border-bottom: 2px solid {{ site.colors.secondary }};
+	border-bottom: 2px solid #e5e5e5;
 }
 
 .hline-w {
-	border-bottom: 2px solid #ffffff;
+	border-bottom: 2px solid #e5e5e5;
 	margin-bottom: 25px;
 }
 /*	################################################################

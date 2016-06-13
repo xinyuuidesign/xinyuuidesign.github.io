@@ -192,16 +192,16 @@ a:focus {
 
 .mtb {
 	margin-top: 80px;
-	margin-bottom: 80px;
+	/*margin-bottom: 80px;*/
 }
 
 .mb {
 	margin-bottom: 60px;
 }
 
-.mt {
+/*.mt {
 	margin-top: 60px;
-}
+}*/
 
 .hline {
 	border-bottom: 2px solid #e5e5e5;
@@ -386,7 +386,7 @@ a:focus {
 #blue {
 	background: white;
 	margin-top: 60px;
-	margin-bottom: 60px;
+	/*margin-bottom: 60px;*/
 	padding-top: 25px;
 	padding-bottom: 25px;
 }
@@ -506,5 +506,10 @@ a.anchor{
 }
 .middle {
 	width: 98%;
-	margin: 50px 1%;
+	margin: 0px 1%;
 }
+
+h4 {
+	font-size: 16px;
+	line-height: 2;
+	color:#999;}

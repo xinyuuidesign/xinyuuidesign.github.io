@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://xinyuuidesign.github.io/</link>
     <atom:link href="http://xinyuuidesign.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 13 Jun 2016 07:31:08 +0800</pubDate>
-    <lastBuildDate>Mon, 13 Jun 2016 07:31:08 +0800</lastBuildDate>
+    <pubDate>Mon, 13 Jun 2016 11:22:12 +0800</pubDate>
+    <lastBuildDate>Mon, 13 Jun 2016 11:22:12 +0800</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -126,7 +126,13 @@ It is a long established fact that a reader will be distracted by the readable c
     
       <item>
         <title>Project: Shuffl.ly App</title>
-        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/11shuffly/1.jpg&quot; alt=&quot;&quot; /&gt;
+        <description>&lt;p&gt;Shuffl.ly是一款为独立音乐爱好者设计的音乐社交类App。
+独立音乐爱好者不仅可以方便的发现最新最热的音乐，还可以和自己喜欢的音乐人互动，在第一时间得到他们的最新消息。&lt;/p&gt;
+
+&lt;p&gt;App的目标用户是关注潮流，追求品味，个性独特的音乐爱好者。所以选用了Beats耳机的红色和黑色，红色用来象征激情理想，黑色显示潮流与品味。
+在logo的设计上，选用了 M (music) 和 S (shuffle) 的拼合，简单大体，又具有炫酷感。&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/11shuffly/1.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/11shuffly/2.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/11shuffly/8.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/11shuffly/3.jpg&quot; alt=&quot;&quot; /&gt;
@@ -161,7 +167,10 @@ It is a long established fact that a reader will be distracted by the readable c
     
       <item>
         <title>Project: TripBud App</title>
-        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/09tripbud/1.jpg&quot; alt=&quot;&quot; /&gt;
+        <description>&lt;p&gt;TripBud是一款发现旅行体验的社交型app.
+产品定位18~35岁的年轻人。他们热爱生活，爱社交。你可以选择成为分享旅行体验的达人和发现旅行体验的体验者。App主色选用的是明快富有能量的橙色。用橙色惯冲整个App，加强用户点击欲望。整个界面风格统一，传递一种活泼的气质。&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/09tripbud/1.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/09tripbud/2.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/09tripbud/3.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/09tripbud/4.jpg&quot; alt=&quot;&quot; /&gt;
@@ -182,7 +191,11 @@ It is a long established fact that a reader will be distracted by the readable c
     
       <item>
         <title>Project: ThinkingGame数据分析平台</title>
-        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/5.jpg&quot; alt=&quot;&quot; /&gt;
+        <description>&lt;p&gt;ThinkingGame是一款服务游戏运营人员的玩家数据分析平台。平台覆盖近1000款游戏，对200多个论坛、139个游戏渠道的用户反馈信息进行挖掘与分析，为游戏从业者的“一站式”服务体系。
+平台目标用户是游戏运营策划人员。设计定位是现代极简风格。运用卡片式展示格局，便于运营人员轻松浏览。
+网站以蓝，绿，白色为主色，符合产品线，辅助色用的很少。
+整体风格简洁大方，不去做过多的修饰，只为重点突出页面本身内容。内容组合，图标样式都是和极简方向一一呼应。
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/5.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/6.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/7.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/8.jpg&quot; alt=&quot;&quot; /&gt;

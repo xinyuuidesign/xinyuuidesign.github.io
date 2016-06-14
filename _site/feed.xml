@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://xinyuuidesign.github.io/</link>
     <atom:link href="http://xinyuuidesign.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 14 Jun 2016 09:20:21 +0800</pubDate>
-    <lastBuildDate>Tue, 14 Jun 2016 09:20:21 +0800</lastBuildDate>
+    <pubDate>Tue, 14 Jun 2016 22:08:58 +0800</pubDate>
+    <lastBuildDate>Tue, 14 Jun 2016 22:08:58 +0800</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -134,12 +134,8 @@ It is a long established fact that a reader will be distracted by the readable c
 
 &lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/11shuffly/1.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/11shuffly/2.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/11shuffly/8.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/11shuffly/3.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/11shuffly/4.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/11shuffly/5.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/11shuffly/6.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/11shuffly/7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/11shuffly/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 24 Apr 2014 00:00:00 +0800</pubDate>
@@ -172,17 +168,28 @@ It is a long established fact that a reader will be distracted by the readable c
 
 &lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/09tripbud/1.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/09tripbud/2.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/09tripbud/3.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/09tripbud/4.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/09tripbud/5.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/09tripbud/6.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/09tripbud/7.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/09tripbud/8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/09tripbud/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 22 Apr 2014 00:00:00 +0800</pubDate>
         <link>http://xinyuuidesign.github.io/project/Tripbud</link>
         <guid isPermaLink="true">http://xinyuuidesign.github.io/project/Tripbud</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: 转转</title>
+        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/12transfer/1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/12transfer/2.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/12transfer/3.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/12transfer/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Apr 2014 00:00:00 +0800</pubDate>
+        <link>http://xinyuuidesign.github.io/project/transfer</link>
+        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/transfer</guid>
         
         
         <category>project</category>
@@ -229,23 +236,6 @@ It is a long established fact that a reader will be distracted by the readable c
         <pubDate>Mon, 21 Apr 2014 00:00:00 +0800</pubDate>
         <link>http://xinyuuidesign.github.io/project/ThinkingData</link>
         <guid isPermaLink="true">http://xinyuuidesign.github.io/project/ThinkingData</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: 临摹</title>
-        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/06art/大白.jpg &quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/06art/微质感图标.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/06art/金属质感图标.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 19 Apr 2014 00:00:00 +0800</pubDate>
-        <link>http://xinyuuidesign.github.io/project/art</link>
-        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/art</guid>
         
         
         <category>project</category>

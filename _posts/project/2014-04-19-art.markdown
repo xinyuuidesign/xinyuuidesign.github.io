@@ -15,6 +15,8 @@ tagged: 临摹
 
 <img class="img-responsive" src="{{ "/assets/img/project/carousel/06art/金属质感图标.jpg" | prepend: site.baseurl }}" alt="">
 
+<img class="img-responsive" src="{{ "/assets/img/project/carousel/05gif/watch.gif" | prepend: site.baseurl }}" alt="">
+
 
 
 

@@ -17,13 +17,8 @@ App的目标用户是关注潮流，追求品味，个性独特的音乐爱好�
 
 <img class="img-responsive" src="{{ "/assets/img/project/carousel/11shuffly/1.jpg" | prepend: site.baseurl }}" alt="">
 <img class="img-responsive" src="{{ "/assets/img/project/carousel/11shuffly/2.jpg" | prepend: site.baseurl }}" alt="">
-<img class="img-responsive" src="{{ "/assets/img/project/carousel/11shuffly/8.jpg" | prepend: site.baseurl }}" alt="">
 <img class="img-responsive" src="{{ "/assets/img/project/carousel/11shuffly/3.jpg" | prepend: site.baseurl }}" alt="">
 <img class="img-responsive" src="{{ "/assets/img/project/carousel/11shuffly/4.jpg" | prepend: site.baseurl }}" alt="">
-<img class="img-responsive" src="{{ "/assets/img/project/carousel/11shuffly/5.jpg" | prepend: site.baseurl }}" alt="">
-<img class="img-responsive" src="{{ "/assets/img/project/carousel/11shuffly/6.jpg" | prepend: site.baseurl }}" alt="">
-<img class="img-responsive" src="{{ "/assets/img/project/carousel/11shuffly/7.jpg" | prepend: site.baseurl }}" alt="">
-
 
 
 

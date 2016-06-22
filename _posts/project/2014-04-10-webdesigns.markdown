@@ -1,9 +1,9 @@
 ---
 layout: project
-title:  "Shuffl.ly Watch"
+title:  "网页设计"
 categories:
 - project
-img: portfolio_10.jpg
+img: portfolio_12.jpg
 thumb: thumb02.jpg
 carousel:
 

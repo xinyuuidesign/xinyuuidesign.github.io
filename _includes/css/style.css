@@ -519,3 +519,12 @@ h4 {
 	display: inline-block;
 	border: 1px #999999 solid;
 }
+
+
+.button {
+    width: 100px;
+    display: inline-block;
+    border: 1px #999999 solid;
+    text-align: center;
+    margin: 20px 45%;
+ }

@@ -1,0 +1,24 @@
+---
+layout: project
+title:  "享行"
+categories:
+- project
+img: portfolio_13.jpg
+thumb: thumb02.jpg
+carousel:
+
+tagged: 临摹
+---
+<img class="img-responsive" src="{{ "/assets/img/project/carousel/14bike/1.png
+" | prepend: site.baseurl }}" alt="">
+<img class="img-responsive" src="{{ "/assets/img/project/carousel/14bike/2.png
+" | prepend: site.baseurl }}" alt="">
+<img class="img-responsive" src="{{ "/assets/img/project/carousel/14bike/3.png
+" | prepend: site.baseurl }}" alt="">
+<img class="img-responsive" src="{{ "/assets/img/project/carousel/14bike/4.png
+" | prepend: site.baseurl }}" alt="">
+<img class="img-responsive" src="{{ "/assets/img/project/carousel/14bike/5.png
+" | prepend: site.baseurl }}" alt="">
+<img class="img-responsive" src="{{ "/assets/img/project/carousel/14bike/6.png
+" | prepend: site.baseurl }}" alt="">
+

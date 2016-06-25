@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://xinyuuidesign.github.io/</link>
     <atom:link href="http://xinyuuidesign.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 25 Jun 2016 09:03:04 +0800</pubDate>
-    <lastBuildDate>Sat, 25 Jun 2016 09:03:04 +0800</lastBuildDate>
+    <pubDate>Sat, 25 Jun 2016 21:16:33 +0800</pubDate>
+    <lastBuildDate>Sat, 25 Jun 2016 21:16:33 +0800</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -230,18 +230,18 @@ It is a long established fact that a reader will be distracted by the readable c
       </item>
     
       <item>
-        <title>Project: 临摹</title>
-        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/06art/大白.jpg &quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/06art/微质感图标.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/06art/金属质感图标.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/05gif/watch.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+        <title>Project: 享行</title>
+        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/14bike/1.png &quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/14bike/2.png &quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/14bike/3.png &quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/14bike/4.png &quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/14bike/5.png &quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/14bike/6.png &quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 19 Apr 2014 00:00:00 +0800</pubDate>
-        <link>http://xinyuuidesign.github.io/project/art</link>
-        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/art</guid>
+        <link>http://xinyuuidesign.github.io/project/bike</link>
+        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/bike</guid>
         
         
         <category>project</category>

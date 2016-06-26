@@ -22,3 +22,4 @@ tagged: 临摹
 <img class="img-responsive" src="{{ "/assets/img/project/carousel/14bike/6.png
 " | prepend: site.baseurl }}" alt="">
 
+

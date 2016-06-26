@@ -5,9 +5,119 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://xinyuuidesign.github.io/</link>
     <atom:link href="http://xinyuuidesign.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 26 Jun 2016 11:32:31 +0800</pubDate>
-    <lastBuildDate>Sun, 26 Jun 2016 11:32:31 +0800</lastBuildDate>
+    <pubDate>Sun, 26 Jun 2016 23:00:53 +0800</pubDate>
+    <lastBuildDate>Sun, 26 Jun 2016 23:00:53 +0800</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Project: ThinkingData官网</title>
+        <description>&lt;p&gt;ThinkingData官网设计，加入了科技和商务元素，整体风格简洁大体。&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/15td/1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/15td/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 22 May 2014 00:00:00 +0800</pubDate>
+        <link>http://xinyuuidesign.github.io/project/ThinkingData</link>
+        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/ThinkingData</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: ThinkingGame数据分析平台</title>
+        <description>&lt;p&gt;ThinkingGame是一款服务游戏运营人员的玩家数据分析平台。平台覆盖近1000款游戏，对200多个论坛、139个游戏渠道的用户反馈信息进行挖掘与分析，为游戏从业者的“一站式”服务体系。
+&lt;br /&gt;
+平台目标用户是游戏运营策划人员。设计定位是现代极简风格。运用卡片式展示格局，便于运营人员轻松浏览。
+网站以蓝，绿，白色为主色，符合产品线，辅助色用的很少。
+整体风格简洁大方，不去做过多的修饰，只为重点突出页面本身内容。内容组合，图标样式都是和极简方向一一呼应。
+&lt;br /&gt;
+&lt;br /&gt;
+1. 移入鼠标，方便查找切换游戏&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+2. 整屏式浏览用户反馈详情，更纯净减少视觉干扰&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/2.jpg&quot; alt=&quot;&quot; /&gt;
+3. 统一的游戏鼠标移入模式，快速便捷进入游戏主页&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/3.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/6.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/7.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/8.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/9.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/10.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/11.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/12.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/13.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 21 May 2014 00:00:00 +0800</pubDate>
+        <link>http://xinyuuidesign.github.io/project/ThinkingGame</link>
+        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/ThinkingGame</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: ThinkingData后台</title>
+        <description>&lt;p&gt;ThinkingData后台管理系统选用自适应满屏设计使得屏幕空间可以得到最大限度的利用，减少了用户在使用过程中的迷失感。
+&lt;br /&gt;
+视觉清新且逻辑简单的页面能够最大限度的降低用户的学习成本。
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/08thinkingdata/4.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/08thinkingdata/5.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/08thinkingdata/6.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/08thinkingdata/7.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/08thinkingdata/8.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/08thinkingdata/9.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;!-- &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/08thinkingdata/10.jpg&quot; alt=&quot;&quot;&gt; --&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 21 May 2014 00:00:00 +0800</pubDate>
+        <link>http://xinyuuidesign.github.io/project/ThinkingData</link>
+        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/ThinkingData</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: 转转</title>
+        <description>&lt;p&gt;转转是一款实现朋友间轻松转账的App。在互联网为代表的现代信息科技时代，移动支付、社交网络等对金融模式产生根本影响。
+&lt;br /&gt;
+转转的设计理念更贴合当下年轻用户的生活方式，让转账变的更简便，可以直观的查看历史与管理支出。
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/12transfer/1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/12transfer/2.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/12transfer/3.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/12transfer/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 27 Apr 2014 00:00:00 +0800</pubDate>
+        <link>http://xinyuuidesign.github.io/project/transfer</link>
+        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/transfer</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
     
       <item>
         <title>Question: Why did the Chicken cross the road?</title>
@@ -161,107 +271,6 @@ It is a long established fact that a reader will be distracted by the readable c
         <pubDate>Tue, 22 Apr 2014 00:00:00 +0800</pubDate>
         <link>http://xinyuuidesign.github.io/project/Tripbud</link>
         <guid isPermaLink="true">http://xinyuuidesign.github.io/project/Tripbud</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: 转转</title>
-        <description>&lt;p&gt;转转是一款在Andriod平台上实现朋友间轻松转账的App。
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/12transfer/1.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/12transfer/2.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/12transfer/3.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/12transfer/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 21 Apr 2014 00:00:00 +0800</pubDate>
-        <link>http://xinyuuidesign.github.io/project/transfer</link>
-        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/transfer</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: ThinkingGame数据分析平台</title>
-        <description>&lt;p&gt;ThinkingGame是一款服务游戏运营人员的玩家数据分析平台。平台覆盖近1000款游戏，对200多个论坛、139个游戏渠道的用户反馈信息进行挖掘与分析，为游戏从业者的“一站式”服务体系。
-平台目标用户是游戏运营策划人员。设计定位是现代极简风格。运用卡片式展示格局，便于运营人员轻松浏览。
-网站以蓝，绿，白色为主色，符合产品线，辅助色用的很少。
-整体风格简洁大方，不去做过多的修饰，只为重点突出页面本身内容。内容组合，图标样式都是和极简方向一一呼应。
-&lt;br /&gt;
-&lt;br /&gt;
-1. 移入鼠标，方便查找切换游戏&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/1.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-2. 整屏式浏览用户反馈详情，更纯净减少视觉干扰&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/2.jpg&quot; alt=&quot;&quot; /&gt;
-3. 统一的游戏鼠标移入模式，快速便捷进去游戏主页&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/3.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/6.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/7.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/8.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/9.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/10.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/11.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/12.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/13.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 21 Apr 2014 00:00:00 +0800</pubDate>
-        <link>http://xinyuuidesign.github.io/project/ThinkingGame</link>
-        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/ThinkingGame</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: ThinkingData后台</title>
-        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/08thinkingdata/4.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/08thinkingdata/5.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/08thinkingdata/6.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/08thinkingdata/7.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/08thinkingdata/8.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/08thinkingdata/9.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/08thinkingdata/10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 21 Apr 2014 00:00:00 +0800</pubDate>
-        <link>http://xinyuuidesign.github.io/project/ThinkingData</link>
-        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/ThinkingData</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: 享骑出行</title>
-        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/14bike/1.png &quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/14bike/2.png &quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/14bike/3.png &quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/14bike/4.png &quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/14bike/5.png &quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/14bike/6.png &quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 19 Apr 2014 00:00:00 +0800</pubDate>
-        <link>http://xinyuuidesign.github.io/project/bike</link>
-        <guid isPermaLink="true">http://xinyuuidesign.github.io/project/bike</guid>
         
         
         <category>project</category>

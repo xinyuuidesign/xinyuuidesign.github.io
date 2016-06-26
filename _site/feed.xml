@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://xinyuuidesign.github.io/</link>
     <atom:link href="http://xinyuuidesign.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 25 Jun 2016 21:16:33 +0800</pubDate>
-    <lastBuildDate>Sat, 25 Jun 2016 21:16:33 +0800</lastBuildDate>
+    <pubDate>Sun, 26 Jun 2016 11:32:31 +0800</pubDate>
+    <lastBuildDate>Sun, 26 Jun 2016 11:32:31 +0800</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -169,7 +169,8 @@ It is a long established fact that a reader will be distracted by the readable c
     
       <item>
         <title>Project: 转转</title>
-        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/12transfer/1.jpg&quot; alt=&quot;&quot; /&gt;
+        <description>&lt;p&gt;转转是一款在Andriod平台上实现朋友间轻松转账的App。
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/12transfer/1.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/12transfer/2.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/12transfer/3.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/12transfer/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -189,8 +190,27 @@ It is a long established fact that a reader will be distracted by the readable c
 平台目标用户是游戏运营策划人员。设计定位是现代极简风格。运用卡片式展示格局，便于运营人员轻松浏览。
 网站以蓝，绿，白色为主色，符合产品线，辅助色用的很少。
 整体风格简洁大方，不去做过多的修饰，只为重点突出页面本身内容。内容组合，图标样式都是和极简方向一一呼应。
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/5.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/6.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+1. 移入鼠标，方便查找切换游戏&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+2. 整屏式浏览用户反馈详情，更纯净减少视觉干扰&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/2.jpg&quot; alt=&quot;&quot; /&gt;
+3. 统一的游戏鼠标移入模式，快速便捷进去游戏主页&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/3.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/6.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/7.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/8.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/07thinkinggame/9.jpg&quot; alt=&quot;&quot; /&gt;
@@ -230,7 +250,7 @@ It is a long established fact that a reader will be distracted by the readable c
       </item>
     
       <item>
-        <title>Project: 享行</title>
+        <title>Project: 享骑出行</title>
         <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/14bike/1.png &quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/14bike/2.png &quot; alt=&quot;&quot; /&gt;
 &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/project/carousel/14bike/3.png &quot; alt=&quot;&quot; /&gt;
